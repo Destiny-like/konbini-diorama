@@ -4,7 +4,9 @@
 
 <img src="docs/hero.jpg" width="100%" alt="雨夜便利店街角">
 
-**单文件 · 离线可用 · 零外部依赖** —— 双击 `index.html` 即可体验。
+### [🌐 在线试玩 → https://destiny-like.github.io/konbini-diorama/](https://destiny-like.github.io/konbini-diorama/)
+
+**单文件 · 离线可用 · 零外部依赖** —— 也可以双击 `index.html` 本地打开。
 
 ---
 
@@ -18,9 +20,9 @@
 
 ## 快速开始
 
-双击仓库根目录的 `index.html`，浏览器打开即可。**不需要本地服务器、不联网、不加载任何图片或音频文件。**
+**方式一（推荐）**：直接打开 https://destiny-like.github.io/konbini-diorama/ —— 由 GitHub Pages 托管，无需任何环境。
 
-托管到 GitHub Pages（Settings → Pages → main 分支 `/root`）后也可以直接用网址访问。
+**方式二（离线）**：双击仓库根目录的 `index.html`。**不需要本地服务器、不联网、不加载任何图片或音频文件**，断网也能跑。
 
 ## 操作
 
